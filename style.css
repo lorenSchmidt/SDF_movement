@@ -1,0 +1,10 @@
+body {
+	margin: 0px;
+	background-color: #800080;
+}
+
+canvas {
+	width: 1920px; //100%;
+	height: 1080px; //100%;
+	/*image-rendering: pixelated;*/
+}
